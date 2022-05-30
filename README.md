@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @apogson
-- 👀 I’m interested in 
+- 👀 I’m interested in music
 - 🌱 I’m currently learning github and python
 - 📫 How to reach me ...
