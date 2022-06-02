@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apogson
-- 👀 I’m interested in music
+- 👋 Hi, I’m Alex
+- 👀 I’m interested in football, guitar, muay thai, weightlifting
 - 🌱 I’m currently learning github and python
 - 📫 How to reach me ...
